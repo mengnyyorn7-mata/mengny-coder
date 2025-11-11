@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Natsumi</h1>
+<h1 align="center">Hi 👋, I'm YORN MENGNY</h1>
 
 <p align="center">
 🌸 A passionate Computer Science student exploring <b>Web Development, Blockchain, and Cloud</b>.<br>
-💫 become a <b>Professional Full-Stack Developer</b>.<br>
-🚀 Girl in Tech | Lifelong Learner | Creator 💻
+💫 become a <b>Professional Full-Stack Developer </b>.<br>
+🚀 Girl in Tech | Lifelong Learner | Creator | Designer 💻
 </p>
 
 ---
@@ -36,14 +36,14 @@
 
 <p align="center">
 📍 Phnom Penh City, Cambodia 🇰🇭  
-💌 <a href="mailto:natsumi.dev@gmail.com">natsumi.dev@gmail.com</a>
+💌 <a href="mengny.yornsuga7@gmail.com">mengny.yornsuga7@gmail.com</a>
 </p>
 
 ---
 
 ### 🐍 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NatsumiYang&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsumiYang&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yornmengny&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yornmengny&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
